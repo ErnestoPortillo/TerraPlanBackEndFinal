@@ -1,0 +1,5 @@
+# Created at 2024-11-19T16:33:37.918
+Boot Manifest-JAR contains absolute paths in classpath 'H:\U\Arquitectura Web\TF\TerraPlan-u202110858-Grupo03\TerraPlanBackend\TerraPlan\target\test-classes'
+Hint: <argLine>-Djdk.net.URLClassPath.disableClassPathURLCheck=true</argLine>
+'other' has different root
+
